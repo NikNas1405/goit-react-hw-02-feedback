@@ -1,10 +1,10 @@
-import { Notification } from '../notification/notification';
+import { Notification } from '../Notification/Notification';
 import {
   FeedbackTotalListItem,
   FeedbackTotalList,
   PositivePercentage,
   Total,
-} from './statistic.styled';
+} from './Statistic.styled';
 import PropTypes from 'prop-types';
 
 export const Statistics = ({

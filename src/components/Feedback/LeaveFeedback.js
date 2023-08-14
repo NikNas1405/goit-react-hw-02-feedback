@@ -3,7 +3,7 @@ import {
   FeedbackList,
   FeedbackListItem,
   Button,
-} from './leave-feedback.styled';
+} from './LeaveFeedback.styled';
 
 export const FeedbackOptions = ({ options, countFeedback, title }) => {
   return (

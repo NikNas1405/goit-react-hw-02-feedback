@@ -1,6 +1,6 @@
 import PropTypes from 'prop-types';
 
-import { Title } from './title.styled';
+import { Title } from './Title.styled';
 
 export const Section = ({ title, children }) => {
   return (
