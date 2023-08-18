@@ -4,7 +4,7 @@ import {
   FeedbackTotalList,
   PositivePercentage,
   Total,
-} from './Statistic.styled.js';
+} from './Statistics.styled.js';
 import PropTypes from 'prop-types';
 
 export const Statistics = ({
