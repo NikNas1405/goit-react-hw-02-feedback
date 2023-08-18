@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-import { FeedbackOptions } from './Feedback/LeaveFeedback';
+import { FeedbackOptions } from './Feedback/LeaveFeedbacks';
 import { Statistics } from './Statistic/Statistics';
-import { Section } from './Title/Title';
+import { Section } from './Title/Titles';
 import { GlobalStyle } from './GlobalStyle';
 
 export class App extends Component {

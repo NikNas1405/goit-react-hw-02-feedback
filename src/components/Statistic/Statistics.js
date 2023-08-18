@@ -1,4 +1,4 @@
-import { Notification } from '../Notification/Notification';
+import { Notification } from '../Notification/Notifications';
 import {
   FeedbackTotalListItem,
   FeedbackTotalList,
